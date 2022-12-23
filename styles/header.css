@@ -279,7 +279,6 @@ i {
 .notification {
   background: var(--main-color);
   width: 25%;
-  height: 35%;
   padding: 1% 2%;
   border-radius: 0.5em;
   position: fixed;

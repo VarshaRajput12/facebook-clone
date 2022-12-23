@@ -302,3 +302,12 @@ const fb_logo = document.querySelector("#fb_logo");
 fb_logo.addEventListener("click", () => {
   window.location.href = "/pages/header.html";
 });
+
+
+// find_friends
+
+const findFriends = document.querySelector("#find_friends")
+
+findFriends.addEventListener("click", () => {
+  window.location.href = "/pages/friends.html";
+});
